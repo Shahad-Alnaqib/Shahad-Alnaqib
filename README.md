@@ -1,8 +1,9 @@
 ## Hey 👋, I'm Shahad Alnaqib!
 
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.youtube.com/'><img align='left' alt="youtube" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/your-linkedin/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/your-twitter/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.youtube.com/@your-youtube'><img align='left' alt="youtube" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height='18px'/></a>
+<a href='https://github.com/your-github/'><img align='left' alt="github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height='18px'/></a>
 
 I’m a **Computer Science student** 👩‍💻 and a **YouTube content creator** 🎥.  
 I love combining **tech + creativity**, building projects, and sharing knowledge through tutorials and videos.  
@@ -11,15 +12,14 @@ I love combining **tech + creativity**, building projects, and sharing knowledge
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; Currently working on **YouTube-related apps & web projects**
+- 🔭 &nbsp; Currently working on **web apps & YouTube projects**
 - 🌱 &nbsp; Learning **TypeScript**, **React**, and advanced web development
-- 👨‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/rahul-jha98?tab=repositories)
+- 👨‍💻 &nbsp; Most of my projects are on [GitHub](https://github.com/your-github/)
 - 🎨 &nbsp; Designing UI/UX with **Figma** & custom illustrations
 - 💬 &nbsp; Ask me about **programming, AI, web dev, or content creation**
-- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Check my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📺 &nbsp; Watch my [YouTube content](https://www.youtube.com/) 🎬
-- 📚 &nbsp; Reading fantasy & fiction novels in free time – see my [Goodreads](https://www.goodreads.com/rahul-jha98)
+- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📺 &nbsp; Watch my [YouTube content](https://www.youtube.com/@your-youtube) 🎬
+- 📚 &nbsp; I enjoy reading fantasy & fiction novels in my free time
 
 ---
 
@@ -47,7 +47,6 @@ I love combining **tech + creativity**, building projects, and sharing knowledge
 
 ### 🛠️ My Projects
 
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://your-project-link1" target="_blank"> <img alt="project1" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://your-project-link2" target="_blank"> <img alt="project2" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://your-project-link3" target="_blank"> <img alt="project3" src="./projects/readmeicons.svg" height="68" align="left"> </a>
